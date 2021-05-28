@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at https://hashaman.github.io/AmanJaiswal.github.io/
 - 💬 Ask me about **React, Web Development and UI/UX**
 - 📫 Contact me jaiswal.amankumar9898@gmail.com
-- 📄 My Resume https://drive.google.com/file/d/1K9mnOoE5E-TDPI8HmBD9e65w2c-gzdGX/view?usp=sharing
+- 📄 My Resume https://drive.google.com/file/d/1XIo5_qHLmlN7n5ytt9ixaKXvxBW0eQLG/view?usp=sharing
 - ⚡ Fun fact **People often call me an alien**
 
 ## ✍ My Work
