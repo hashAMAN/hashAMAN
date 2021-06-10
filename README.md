@@ -8,7 +8,7 @@
 - 💬 Ask me about **React, Web Development and UI/UX**
 - 📫 Contact me jaiswal.amankumar9898@gmail.com
 - 📄 My Resume https://drive.google.com/file/d/1XIo5_qHLmlN7n5ytt9ixaKXvxBW0eQLG/view?usp=sharing
-- ⚡ Fun fact **People often call me an alien**
+- ⚡ Fun fact ** People often call me an alien **
 
 ## ✍ My Work
 
