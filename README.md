@@ -2,10 +2,10 @@
 
 ## 🧔 About Me
 
-- 🌱 I’m currently learning **React, Figma, Nodejs and Bootstrap**
-- 👯 I’m looking to collaborate on **React/Vanilla JS Projects**
+- 🌱 I’m currently learning **JupyterLab, MySQL, R and Azure**
+- 👯 I’m looking to collaborate on **Azure Projects**
 - 👨‍💻 All of my projects are available at https://hashaman.github.io/AmanJaiswal.github.io/
-- 💬 Ask me about **React, Web Development and UI/UX**
+- 💬 Ask me about **DataScience, Pandas,Data Analysis**
 - 📫 Contact me jaiswal.amankumar9898@gmail.com
 - 📄 My Resume https://drive.google.com/file/d/1XIo5_qHLmlN7n5ytt9ixaKXvxBW0eQLG/view?usp=sharing
 - ⚡ Fun fact ** People often call me an alien **
