@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at https://hashaman.github.io/AmanJaiswal.github.io/
 - 💬 Ask me about **DataScience, Pandas,Data Analysis, Kaggle**
 - 📫 Contact me jaiswal.amankumar9898@gmail.com
-- 📄 My Resume https://drive.google.com/file/d/1XIo5_qHLmlN7n5ytt9ixaKXvxBW0eQLG/view?usp=sharing
+- 📄 Mail me for My Resume 
 - ⚡ Fun fact ** People often call me an alien **
 
 ## ✍ My Work
