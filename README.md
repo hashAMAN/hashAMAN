@@ -3,9 +3,9 @@
 ## 🧔 About Me
 
 - 🌱 I’m currently learning **JupyterLab, MySQL, R and Azure**
-- 👯 I’m looking to collaborate on **Azure Projects**
+- 👯 I’m looking to collaborate on **DataScience Projects**
 - 👨‍💻 All of my projects are available at https://hashaman.github.io/AmanJaiswal.github.io/
-- 💬 Ask me about **DataScience, Pandas,Data Analysis**
+- 💬 Ask me about **DataScience, Pandas,Data Analysis, Kaggle**
 - 📫 Contact me jaiswal.amankumar9898@gmail.com
 - 📄 My Resume https://drive.google.com/file/d/1XIo5_qHLmlN7n5ytt9ixaKXvxBW0eQLG/view?usp=sharing
 - ⚡ Fun fact ** People often call me an alien **
