@@ -2,7 +2,7 @@
 
 ## 🧔 About Me
 
-- 🌱 I’m currently learning **JupyterLab, MySQL, R, NoSQL, AWS**
+- 🌱 I’m currently learning **JupyterLab, MySQL, Python, NoSQL, AWS**
 - 👯 I’m looking to collaborate on **DataScience Projects**
 - 👨‍💻 All of my projects are available at https://hashaman.github.io/AmanJaiswal.github.io/
 - 💬 Ask me about **DataScience, Pandas,Data Analysis, Kaggle**
